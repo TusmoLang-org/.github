@@ -1,7 +1,5 @@
 # TusmoLang
 
-**Building software in Somali. 🇸🇴**
-
 TusmoLang is a Somali programming language project focused on making software development more accessible through a familiar, native-language syntax.
 
 The project is building a compiled language and its surrounding tooling with a long-term focus on **performance, memory safety, developer experience, and practical software development**.
