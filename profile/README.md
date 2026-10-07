@@ -34,4 +34,16 @@ We want to help build a future where **Somali can be a first-class language for 
 
 ---
 
+## Creator
+
+Tusmo is created and maintained by **Mubarak Abdikadir Jamac (Mubra)**.
+
+For development updates, new Tusmo features, and other projects, follow the creator:
+
+* GitHub: [@Mubarak-mubra](https://github.com/Mubarak-mubra)
+* LinkedIn: [@mubarak-mubra](https://www.linkedin.com/in/mubarak-mubra)
+
+More social links and updates will be shared as the Tusmo project continues to grow.
+
+
 **TusmoLang** — *Ku qor. Ku dhis. Af-Soomaali.*
